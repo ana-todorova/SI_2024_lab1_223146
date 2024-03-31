@@ -1,0 +1,49 @@
+C:\Users\Ana\SI_2024_lab1_223146>git log
+commit a37fc1d698f18d2cab24ef6dde5bdb4d9a874f27 (HEAD -> master)
+Merge: 78a51fb 2f9143b
+Author: ana-todorova <anatodorova16@gmail.com>
+Date:   Sun Mar 31 21:09:24 2024 +0200
+
+    Merge branch 'bug2' of https://github.com/ana-todorova/SI_2024_lab1_223146
+
+commit 78a51fbecf6b94d55f2fad0a91b73ef1cf99d617 (origin/bug2, bug2)
+Author: ana-todorova <anatodorova16@gmail.com>
+Date:   Sun Mar 31 20:50:44 2024 +0200
+
+    Call method makeBigStringFrom in main class.
+
+commit a9595366713c472c2dab4791bebc7c246712ce6e
+Author: ana-todorova <anatodorova16@gmail.com>
+Date:   Sun Mar 31 20:49:11 2024 +0200
+
+     Call method makeBigStringFrom in main class.
+
+commit b9e1260db502cb8abf57b7df77e18c8696c093fc
+Author: ana-todorova <anatodorova16@gmail.com>
+Date:   Sun Mar 31 20:37:18 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 2f9143b351ed1e5dfa7e9ad0d58f8b8eaae598fa
+Author: ana-todorova <anatodorova16@gmail.com>
+Date:   Sun Mar 31 20:50:44 2024 +0200
+
+    Call method makeBigStringFrom in main class.
+
+commit 8eec3457fa3d1fa579947bb0ea43b9852368749e
+Author: ana-todorova <anatodorova16@gmail.com>
+Date:   Sun Mar 31 20:49:11 2024 +0200
+
+     Call method makeBigStringFrom in main class.
+
+commit 11bec43d4eaf870c10087fa3972fce3d94f1ec25 (origin/master, origin/bug1, bug1)
+Author: ana-todorova <anatodorova16@gmail.com>
+Date:   Sun Mar 31 20:45:47 2024 +0200
+
+    Call method filterOddLengthStrings in main class.
+
+commit 7a04570f26350c5143da2768c1b7a583873bce84
+Author: ana-todorova <anatodorova16@gmail.com>
+Date:   Sun Mar 31 20:37:18 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
