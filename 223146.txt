@@ -250,4 +250,14 @@ remote: Resolving deltas: 100% (5/5), completed with 4 local objects.
 To https://github.com/ana-todorova/SI_2024_lab1_223146.git
  + 2f9143b...78a51fb bug2 -> bug2 (forced update)
 
-28. 
+28.  C:\Users\Ana\SI_2024_lab1_223146>notepad logs.txt
+
+C:\Users\Ana\SI_2024_lab1_223146>notepad 223146.txt
+
+29. C:\Users\Ana\SI_2024_lab1_223146>git add .
+
+C:\Users\Ana\SI_2024_lab1_223146>git commit -a -m "Final commit"
+[master 22563cb] Final commit
+ 2 files changed, 302 insertions(+)
+ create mode 100644 223146.txt
+ create mode 100644 logs.txt
