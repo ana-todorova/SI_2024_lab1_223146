@@ -1,4 +1,4 @@
-C:\Users\Ana\SI_2024_lab1_223146>git log
+git log
 commit a37fc1d698f18d2cab24ef6dde5bdb4d9a874f27 (HEAD -> master)
 Merge: 78a51fb 2f9143b
 Author: ana-todorova <anatodorova16@gmail.com>
